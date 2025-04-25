@@ -1,5 +1,7 @@
 # esp_lcd_touch_cst816s
 
+[English](README.md)
+
 如果你的cst816s用 espressif/esp_lcd_touch_cst816s 时无法正常工作，试试我下面的方法：
 
 1. 在 'esp_lcd_touch_new_i2c_cst816s' 中注释掉两行代码
