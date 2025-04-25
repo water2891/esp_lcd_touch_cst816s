@@ -2,7 +2,7 @@
 
 [中文](README_CN.md)
 
-If espressif/esp_lcd_touch_cst816s doesn't work on your cst816s, try my modified version.
+If espressif/esp_lcd_touch_cst816s(<=1.0.6) doesn't work on your cst816s, try my modified version.
 
 1. Comment these two lines in 'esp_lcd_touch_new_i2c_cst816s'
 
